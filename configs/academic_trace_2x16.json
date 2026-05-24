@@ -1,0 +1,21 @@
+{
+  "description": "Small trace run that shows greedy-to-solver decoder switching and three-neighborhood local search.",
+  "entrypoint": "src/ga_hybrid/main.py",
+  "args": {
+    "instance-name": "typical_2x16_trace",
+    "num-bases": 2,
+    "num-suppliers": 16,
+    "pop-size": 4,
+    "max-gen": 4,
+    "max-time": 120,
+    "k-explore": 2,
+    "k-ls": 2,
+    "elite-ls": 1,
+    "ls-max-iter": 1,
+    "mut-prob": 0.2,
+    "ra-max": 0.8,
+    "ra-min": 0.5,
+    "seed": 11
+  }
+}
+

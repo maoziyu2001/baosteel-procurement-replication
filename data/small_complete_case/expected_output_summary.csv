@@ -1,0 +1,2 @@
+instance_name,expected_status,reference_command
+case_2x16_complete,script should produce a feasible solution; stochastic objective depends on seed and Gurobi availability,python3 src/ga_hybrid/main.py --num-bases 2 --num-suppliers 16 --instance-name case_2x16_complete --seed 0

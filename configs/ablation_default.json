@@ -1,0 +1,8 @@
+{
+  "description": "Default ablation experiment entrypoint. Runtime can be long when solver decoding is enabled.",
+  "entrypoint": "experiments/run_ablation.py",
+  "args": {
+    "output-dir": "results/ablation"
+  }
+}
+

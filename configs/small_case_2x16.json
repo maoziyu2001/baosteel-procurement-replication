@@ -1,0 +1,21 @@
+{
+  "description": "Fast 2-base, 16-supplier smoke run using the GA-hybrid solver.",
+  "entrypoint": "src/ga_hybrid/main.py",
+  "args": {
+    "instance-name": "case_2x16_complete",
+    "num-bases": 2,
+    "num-suppliers": 16,
+    "pop-size": 4,
+    "max-gen": 4,
+    "max-time": 60,
+    "k-explore": 10,
+    "k-ls": 2,
+    "elite-ls": 1,
+    "ls-max-iter": 1,
+    "mut-prob": 0.2,
+    "ra-max": 0.8,
+    "ra-min": 0.5,
+    "seed": 0
+  }
+}
+

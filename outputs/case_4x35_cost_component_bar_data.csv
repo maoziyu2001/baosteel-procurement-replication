@@ -1,0 +1,5 @@
+﻿instance_name,algorithm_name,cost_component,cost_value
+case_4x35,ga_greedy,purchase_cost,4666315591.382810
+case_4x35,ga_greedy,transport_cost,87050997.984261
+case_4x35,ga_greedy,inventory_cost,285512554.120270
+case_4x35,ga_greedy,fixed_supplier_cost,68477810.000000

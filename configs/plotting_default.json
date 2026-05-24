@@ -1,0 +1,9 @@
+{
+  "description": "Regenerate supplier-count sensitivity tables and figures from existing CSV results.",
+  "entrypoint": "figures/scripts/build_supplier_count_sensitivity_table_and_figures.py",
+  "args": {
+    "input-dir": "outputs/supplier_count_sensitivity",
+    "output-dir": "outputs/supplier_count_sensitivity/paper_outputs"
+  }
+}
+

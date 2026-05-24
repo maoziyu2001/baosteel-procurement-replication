@@ -1,0 +1,2 @@
+﻿instance_name,algorithm_name,base_count,supplier_count,selected_supplier_count,multi_base_supplier_count,multi_base_supplier_ratio,multi_base_purchase_qty,multi_base_purchase_share,avg_supplier_count_per_base,avg_base_count_per_selected_supplier,max_base_count_per_supplier,shared_supplier_list
+case_5x30,ga_greedy_only,5,30,15,11,0.733333,4931896.480353,0.875708,6.000000,2.000000,5,13;14;15;16;17;19;20;21;22;23;29

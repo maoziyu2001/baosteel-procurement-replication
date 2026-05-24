@@ -1,0 +1,21 @@
+{
+  "description": "Paper-scale GA-hybrid template for the 4-base, 35-supplier instance.",
+  "entrypoint": "src/ga_hybrid/main.py",
+  "args": {
+    "instance-name": "case_4x35_paper",
+    "num-bases": 4,
+    "num-suppliers": 35,
+    "pop-size": 200,
+    "max-gen": 2000,
+    "max-time": 3600,
+    "k-explore": 1000,
+    "k-ls": 50,
+    "elite-ls": 10,
+    "ls-max-iter": 5,
+    "mut-prob": 0.2,
+    "ra-max": 0.8,
+    "ra-min": 0.5,
+    "seed": 0
+  }
+}
+

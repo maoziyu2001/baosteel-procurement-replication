@@ -1,0 +1,8 @@
+{
+  "description": "Supplier-count sensitivity entrypoint. Adjust script-level CLI flags for full paper-scale runs.",
+  "entrypoint": "experiments/run_supplier_count_sensitivity.py",
+  "args": {
+    "output-dir": "outputs/supplier_count_sensitivity"
+  }
+}
+

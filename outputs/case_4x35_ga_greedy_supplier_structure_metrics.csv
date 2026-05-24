@@ -1,0 +1,2 @@
+﻿instance_name,algorithm_name,selected_supplier_count,avg_purchase_qty_per_selected_supplier,top1_supplier_share,top3_supplier_share,top5_supplier_share,herfindahl_index,multi_base_supplier_count,multi_base_supplier_purchase_share,single_base_supplier_count,long_contract_supplier_purchase_share,non_long_contract_supplier_purchase_share
+case_4x35,ga_greedy,19,279571.592956,0.252338,0.453623,0.548181,0.104876,9,0.653587,10,0.617014,0.382986

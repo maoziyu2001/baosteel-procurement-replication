@@ -1,0 +1,2 @@
+﻿instance_name,algorithm_name,purchase_cost,transport_cost,inventory_cost,fixed_supplier_cost,total_cost,reported_total_cost,total_purchase_qty,total_iron_qty,average_purchase_price_per_ton,average_delivered_cost_per_ton,average_unit_iron_cost,runtime_seconds,feasibility_status
+case_4x35,ga_greedy,4666315591.382810,87050997.984261,285512554.120270,68477810.000000,5107356953.487341,5107356953.487341,5311860.266158,4052049.948814,878.471074,894.859117,1173.076998,3827.246670,True

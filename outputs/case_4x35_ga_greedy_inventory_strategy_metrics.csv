@@ -1,0 +1,2 @@
+﻿instance_name,algorithm_name,avg_ending_inventory_weight,avg_ending_inventory_iron,avg_safety_stock_redundancy,max_safety_stock_redundancy,min_safety_stock_redundancy,avg_capacity_utilization,max_capacity_utilization,total_inventory_cost,inventory_cost_share,possible_early_purchase_qty
+case_4x35,ga_greedy,178984.946059,126397.058260,4.784446,13.742241,0.248133,0.000358,0.000645,285512554.120270,0.055902,0.000000
